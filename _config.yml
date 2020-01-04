@@ -1,0 +1,29 @@
+title:              "New Plans"
+tagline:            "블로그 슬로건"
+email:              "surim.sohn@gmail.com"
+description:        "블로그 설명"
+author:             "Sohn Su Rim"
+baseurl:            "/"
+url:                "https://surimemo.com"
+locale:             "ko_KR"
+thumbnail:          "/img/thumbnail.jpg"
+
+# Social Profiles
+twitter_username:   twitter_username
+instagram_username: instagram_username
+facebook_username:  facebook_손수림
+linkedin_username:  linkedin_username
+
+# Build settings
+markdown:           kramdown
+permalink:          /:title
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
+
+# Comments
+disqus:
+  shortname: newplans
