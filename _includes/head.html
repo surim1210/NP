@@ -23,6 +23,9 @@
   <link rel="stylesheet" href="{{"/assets/main.css" | relative_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
 
+  <!-- RSS -->
+	<link href="/atom.xml" type="application/atom+xml" rel="alternate" title="ATOM Feed" />
+
   <!-- SEO Tag -->
   <meta name="twitter:card" content="summary_large_image" />
   {% if page.title %}
@@ -74,5 +77,11 @@
     {% endfor %}
   {% endif %}
   <!-- End SEO Tag -->
+
+  <!-- NAVER SEARCH -->
+	<meta name="naver-site-verification" content="d5f2e8f2875baead4a100e6f07d43e7556b2406b"/>
+
+  <!-- Mail chimp -->
+	<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/c52bed60ae744b0d00df7a7fe/62bbe5f172dd136a7746de78f.js");</script>
 
 </head>
