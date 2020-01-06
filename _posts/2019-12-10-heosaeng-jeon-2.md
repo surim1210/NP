@@ -4,8 +4,8 @@ permalink: /marketing word_1/
 author: "Surim"
 title: 비 전공자가 알고있으면 좋겠는 마케팅 용어
 date: 2019-12-30 15:30:00 +09:00
-feature: '/img/posts/01/ft_marketing.jpeg'
-background: '/img/posts/01/bg_market.jpg'
+feature: '/img/posts/02/ft_marketing.jpeg'
+background: '/img/posts/02/bg_market.jpg'
 categories:
   - category-2
 tags:
