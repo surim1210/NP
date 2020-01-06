@@ -5,33 +5,240 @@
     <description>블로그 설명</description>
     <link>http://localhost:4000//</link>
     <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 06 Jan 2020 15:49:00 +0900</pubDate>
-    <lastBuildDate>Mon, 06 Jan 2020 15:49:00 +0900</lastBuildDate>
+    <pubDate>Mon, 06 Jan 2020 16:51:08 +0900</pubDate>
+    <lastBuildDate>Mon, 06 Jan 2020 16:51:08 +0900</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
-        <title>연암 박지원의 조선 현실 풍자 소설 허생전 - 2</title>
-        <description>&lt;p&gt;주인공인 허생은 가난한 형편에도 10년 글 읽기를 기약하며 매일 글을 읽고 있었는데 7년째 되는 어느 날 아내가 허생에게 장인바치 일도 장사도 못 하면 차라리 도둑질이라도 해서 돈을 벌어 오라고 구박한다.&lt;/p&gt;
+        <title>AARRR 프레임워크</title>
+        <description>&lt;h2 id=&quot;aarrr이란&quot;&gt;AARRR이란&lt;/h2&gt;
 
-&lt;p&gt;그러자 허생은 글 읽기를 멈추고 집 문 밖으로 뛰쳐나가서는 한양의 갑부인 변씨를 찾아가 당당하게 1만 냥이라는 거금을 빌려 간다. 그리고는 바로 안성시장으로 가서 그 돈으로 과일을 다 싹쓸이해서 10배의 폭리를 취하고 제주도로 가서 말총을 다 싹쓸이해서 망건 값을 10배로 올려 처음 꿨던 돈의 100배로 불린다.&lt;/p&gt;
+&lt;p&gt;Priates Metrics(해적 지표)라고도 불리며 주로 리소스가 한정된 스타트업에서 사용한다. AARRR프레임을 통해 고객의 유입부터 활동, 재방문, 추천, 구매에 이르는 각 단계를 분석해 효율적으로 개선할 수 있도록 도와준다.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/posts/01/01.jpg&quot; alt=&quot;돌아오는 허생&quot; /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;aarrr-단계별-핵심-지표&quot;&gt;AARRR 단계별 핵심 지표&lt;/h2&gt;
 
-&lt;p&gt;그런데 얼마 뒤, 때마침 변산에서 도적 떼들이 들끓자 그들의 사연을 듣고는 그들을 회유하여 살기 좋다는 무인도로 데려가서 새 삶을 살게 하고 일본의 기근을 도와주면서 은 백만냥을 벌게 되었다. 그러나 땅이 좁은 것에 한탄하면서 돌아가기로 마음먹으며 섬에 드나드는 배를 모조리 불태우고 바다에 50만냥을 그냥 버린다. 그리고 섬에 있는 사람중에 글을 아는 자들을 골라내어서 배에 태워 다시 조선으로 돌려보냈다. 그렇게 허생은 다시 조선으로 돌아와 가난한 사람들에게 많은 돈을 나누어주고 10만 냥이 남게 되자 변씨에게 몽땅 다 갚는다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/posts/01/ar.jpeg&quot; alt=&quot;aarrr&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;이에 변씨는 깜짝 놀라며 돈을 다시 돌려주려고 했지만 허생은 거절했고 이를 계기로 허생과 인연을 맺게 된다. 얼마 뒤 변씨가 어영청 대장인 이완 대장에게 허생의 얘기를 하자 이완 대장이 놀라며 허생을 찾아간다.이완이 허생에게 청나라에 대한 대책을 묻자 세 가지 해결책을 던졌는데 이완이 모두 어렵다는 답만 했다. 그러자 허생이 이완을 꾸짖으면서 칼로 찌르려고 위협했고 놀란 이완 대장은 뒷문으로 도망갔다. 그 다음날 이완이 다시 찾아가 봤지만 허생은 사라졌다.&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Acquisition - 획득, 유치&lt;/p&gt;
+
+    &lt;p&gt;어떻게 우리 서비스를 접하고 있는지&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Activation - 활동&lt;/p&gt;
+
+    &lt;p&gt;사용자가 처음 서비스를 이용할 때 긍정적인 경험을 제공하는가&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Retention - 유지 또는 재방문&lt;/p&gt;
+
+    &lt;p&gt;이후의 서비스 재사용률은 어떻게 되는가&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Referral- 추천&lt;/p&gt;
+
+    &lt;p&gt;사용자가 자발적 바이럴, 공유를 일으키고 있는가&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Revenue - 구매&lt;/p&gt;
+
+    &lt;p&gt;최종 목적(매출)으로 연결되고 있는가&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;구체적으로&quot;&gt;구체적으로&lt;/h2&gt;
+
+&lt;h5 id=&quot;acquisiton&quot;&gt;&lt;strong&gt;Acquisiton&lt;/strong&gt;&lt;/h5&gt;
+
+&lt;p&gt;우리 서비스의 첫 방문자들이 어떤 채널을 통해 유입되었는지 측정한다. 페이스북 / 구글 광고 또는 검색 최적화를 주로 사용한다.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;측정 지표: 신규방문자 수&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;activation&quot;&gt;&lt;strong&gt;Activation&lt;/strong&gt;&lt;/h5&gt;
+
+&lt;p&gt;유입된 고객이 우리 서비스를 얼마나 활발히 이용하고 있는지 측정한다. 서비스를 이용하는 고객들이 바로 이탈하지 않고 오래 머물수록 좋기때문에 회원가입이나 컨텐츠 구독처럼 머물러 있는 시간이나 다른 컨텐츠의 소비, 참여 등이 활성화의 기준이 된다.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;측정지표: 이탈률(Bounce Rate) / PV(Page View) / 세션당 페이지수 / 회원가입 / 구독 / 체류시간&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;retention&quot;&gt;&lt;strong&gt;Retention&lt;/strong&gt;&lt;/h5&gt;
+
+&lt;p&gt;서비스를 한 번 이용했던 고객이 재방문하여 다른 컨텐츠를 소비하거나 참여하는 것을 말한다. 재방문율이 높다는 것은 그만큼 서비스에 대한 만족감을 높다는 것을 의미 할 수 있기 때문에 중요한 수치입니다. 재방문을 유도하기 위해 주로 이메일이나, 구독, 푸쉬, 쿠폰 발행 등의 방법을 사용한다.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;측정지표: 재방문율(Retention Rate) / DAU / MAU 사용&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;referral&quot;&gt;&lt;strong&gt;Referral&lt;/strong&gt;&lt;/h5&gt;
+
+&lt;p&gt;바이럴 마케팅이 대표적인 방법이다. 주로 지인의 추천이나 자주가는 커뮤니티 또는 블로그 등의 추천을 통해 간접 경험 후 서비스를 가입하거나 이용하게 된다. 어떤 광고보다 효과가 좋은건 &lt;em&gt;지인의 추천&lt;/em&gt; 이다. 내 서비스 이용자인 고객들이 지인에게 추천을 할 수 있도록 해야한다.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;측정지표: 공유 / 댓글 / 태그 / 바이럴 계수&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;revenue&quot;&gt;&lt;strong&gt;Revenue&lt;/strong&gt;&lt;/h5&gt;
+
+&lt;p&gt;최종적 목표인 구매율을 높이기 위한 방법이다. 아무리 측정을 잘했더라도 구매가 이루어지지 않은면 비즈니스가 되지 않는다. 각 지표사이의 상관 관계를 분석하여 구매율을 높이는 것이 AARRRDML 목적이다.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;측정지표: 전환율 / 객단가 / CLV&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;단어-정리&quot;&gt;단어 정리&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;DAU (Daily Active User) 일간 순수 이용자&lt;/p&gt;
+
+    &lt;p&gt;사용자를 이해하는 중요한 기본 관리 지표.  유저해빗에서는 오늘의 순사용자도 1시간 간격으로 실시간 집계하여 표시한다.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;MAU (Monthly Active User) 월간 순수 이용자&lt;/p&gt;
+
+    &lt;p&gt;일반적으로 이전 30일을 기준으로 측정하거나 1일부터 말일을 기준으로 측정한다. 유저해빗에서는 일수와 상관없이 월을 기준으로 사용자수 측정&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;유저해빗(User Habit)&lt;/p&gt;
+
+    &lt;p&gt;깊이 있는 사용자 행동 분석을 제공하는 새로운 종류의 데이터 분석 서비스&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;CLV (Customer Lifetime Value) 고객 생애 가치&lt;/p&gt;
+
+    &lt;p&gt;비즈니스와의 관계를 통해 소비자가 기업에 기여하는 총 가치를 말한다.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;객단가&lt;/p&gt;
+
+    &lt;p&gt;고객이 1회 구매 시 평균적으로 결제하는 금애글 의미한다. 여러 상품을 판매하는 경우는 상품별로 파악하는 것이 좋다.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 </description>
-        <pubDate>Tue, 10 Dec 2019 15:30:00 +0900</pubDate>
-        <link>http://localhost:4000//heosaeng-jeon-2/</link>
-        <guid isPermaLink="true">http://localhost:4000//heosaeng-jeon-2/</guid>
+        <pubDate>Mon, 30 Dec 2019 15:30:00 +0900</pubDate>
+        <link>http://localhost:4000//aarrrframework/</link>
+        <guid isPermaLink="true">http://localhost:4000//aarrrframework/</guid>
         
-        <category>허생</category>
+        <category>마케팅</category>
         
-        <category>조선시대</category>
+        <category>marketing</category>
         
-        <category>허생전</category>
+        <category>marketing funnnel</category>
         
-        <category>고전소설</category>
+        <category>마케팅 비전공자</category>
+        
+        <category>마케팅 aarrrframework</category>
+        
+        <category>퍼널 분석</category>
+        
+        
+        <category>category-2</category>
+        
+      </item>
+    
+      <item>
+        <title>비 전공자가 알고있으면 좋겠는 마케팅 용어</title>
+        <description>&lt;ol&gt;
+  &lt;li&gt;Landing Page 랜딩페이지&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;검색 광고의 텍스트나 배너 광고를 클릭 했을 때 연결되는 페이지를 의미한다.  랜딩페이지는 주로 광고주의 홈페이지나 이벤트 페이지로 연결되는 경우가 대부분이다.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Impression 노출&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;광고 노출 횟수를 말하며 웹사이트가 열려 배너광고가 한 번 노출될 때 한 번의 카운팅을 합니다. 특히 웹페이지의 한 지면에는 디자인에 따라 여러 개의 광고가 들어갈 수 있기 때문에, 단위 시간당 웹페이지보다는 단위 시간당 광고 뷰로 더 많이 표기합니다.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Retargeting Advertising 리타겟팅 광고&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;광고주의 웹사이트에 방문한 적이 있거나 웹사이트 내의 특정 페이지를 열람한 경험이 있는 소비자에게 광고를 보여주는 방법입니다.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Reach 도달률&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;광고에 노출된 타깃의 비율&lt;/p&gt;
+
+&lt;p&gt;배너 광고든 SNS의 콘텐츠든 특정 메세지가 존재할 때 최소한 한번 또는 그 이상 노출 된 이용자의 수나 퍼센테이지를 말한다.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;⚠︎ 도달률의 경우 의도한 메시지가 대상에 여러 번 노출되더라도 한번으로 계산을 한다는 점.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Reach 1+: 광고에 최소한 한 번 이상 노출된 타깃의 비율&lt;/p&gt;
+
+&lt;p&gt;Reach 2+: 광고에 최소한 두 번 이상 노출된 타깃의 비율&lt;/p&gt;
+
+&lt;p&gt;Reach 3+: 광고에 최소한 세 번 이상 노출된 타깃의 비율&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;CRM ( Customer Relationship Management ) 고객관계관리&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;CPC ( Cost Per Click ) 클릭 당 비용&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;웹 사이트 방문이든 매출이든, 구매 전환을 향상하는데 가장 효과적이다.&lt;/p&gt;
+
+&lt;p&gt;광고를 클릭하면, 방문자는 기업 웹사이트로 바로 이동이 되며, 기업은 클릭에 대한 비용을 지불한다. 고객이 구매하면, 클릭에 대한 투자의 가치가 실현되는 것이다.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;구매 전환이나 고객 획득을 목표로 하는 경우, CPC 가격 모델이 최고의 선택이 될 것이다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;CPM ( Cost Per Millium ) 1,000개 노출 당 비용&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;브랜드의 인지도와 참여도를 높이는데 가장 효과적이다.&lt;/p&gt;
+
+&lt;p&gt;브랜드 가시성을 향상하려면 선택하는 것이 좋음. 어떤 유형의 페이지를 타겟팅할 지 세부적으로 선택이 가능하다.&lt;/p&gt;
+
+&lt;p&gt;1,000 회의 노출을 구매하는 경우, 웹 전반에서 1,000개의 광고가 표시된 다는 사실을 이해해야 한다.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;CPA (Cost Per Action ) 액션 당 단가&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;소비자가 온라인 상에 노출된 광고를 클릭하고 랜딩페이지에 진입했을 시 광고주가 원하는 특정 행동을 취할 때 과금하는 광고비 책정 방식이다. 주로 구매기준으로 삼지만 회원가입, 이벤트 신청, 다운로드, 어플리케이션 설치 등을 기준으로 삼기도 한다.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;CTR ( Click - Though Rate ) 노출 대비 클릭 수&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;광고의 노출 횟수 대비 클릭이 일어난 횟수를 나타내는 말이다. 쉽게 말해 광고를 본 사람 중 몇 명이나 해당 광고를 클릭했나를 비율로 나타낸 것이다.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;클릭수 / 노출수 x 100&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;CVR ( Conversion  Rate )전환율&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;전환은 광고 등을 통해 사이트를 방문한 사람이 제품 구매, 장바구니 담기, 회원가입, 뉴스레터 신청 등을 &lt;strong&gt;광고주가 의도한 행위를 취하는 것&lt;/strong&gt; 을 뜻한다. 광고의 성과를 파악하는 지표 중 하나라고 표현할 수 있으면 쇼핑몰과 같은 전자상거래 업종을 주로 결제를 전환으로 잡는다.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;전환수 / 유입수 x 100&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+&lt;h3 id=&quot;출처&quot;&gt;출처&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.criteo.com/kr/insights/whats-difference-cpc-cpm/&quot;&gt;criteo&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://blog.socialmkt.co.kr/475&quot;&gt;소셜마케팅코리아 블로그&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 30 Dec 2019 15:30:00 +0900</pubDate>
+        <link>http://localhost:4000//marketing word_1/</link>
+        <guid isPermaLink="true">http://localhost:4000//marketing word_1/</guid>
+        
+        <category>마케팅</category>
+        
+        <category>marketing</category>
+        
+        <category>marketing word</category>
+        
+        <category>마케팅 비전공자</category>
+        
+        <category>마케팅 용어</category>
         
         
         <category>category-2</category>
