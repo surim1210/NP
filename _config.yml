@@ -4,7 +4,7 @@ author:             "Sohn Su Rim"
 baseurl:            "/"
 url:                "https://surimemo.com"
 locale:             "ko_KR"
-thumbnail:          "/img/thum.jpg"
+thumbnail:          "/img/bg-thumb.jpg"
 
 # Social Profiles
 instagram_username: instagram_10.30_photo

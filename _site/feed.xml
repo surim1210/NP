@@ -5,8 +5,8 @@
     <description>블로그 설명</description>
     <link>http://localhost:4000//</link>
     <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 07 Jan 2020 19:26:00 +0900</pubDate>
-    <lastBuildDate>Tue, 07 Jan 2020 19:26:00 +0900</lastBuildDate>
+    <pubDate>Tue, 07 Jan 2020 19:29:46 +0900</pubDate>
+    <lastBuildDate>Tue, 07 Jan 2020 19:29:46 +0900</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
